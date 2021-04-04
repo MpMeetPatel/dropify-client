@@ -1,0 +1,33 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@hookform/error-message": "^0.0.5",
+    "@stripe/stripe-js": "^1.13.1",
+    "artplayer-react": "^3.5.27",
+    "cloudinary": "^1.25.0",
+    "next": "10.0.8",
+    "plyr-react": "^3.0.8",
+    "react": "17.0.1",
+    "react-cookie": "^4.0.3",
+    "react-dom": "17.0.1",
+    "react-dropzone": "^11.3.1",
+    "react-hook-form": "^6.15.4",
+    "react-loader-spinner": "^4.0.0",
+    "react-media-recorder": "^1.4.0",
+    "react-paginate": "^7.1.2",
+    "sweetalert2": "^10.15.6",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.3"
+  }
+}
